@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Emilio Aquino
 
-<!--
-**3m1l10j4v13r4qu1n0/3m1l10j4v13r4qu1n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista Funcional Junior con formación en Análisis de Sistemas.  
+Me enfoco en el relevamiento de requerimientos, documentación funcional y mejora de procesos, trabajando como nexo entre usuarios y equipos técnicos.
 
-Here are some ideas to get you started:
+## 🧩 ¿En qué me especializo?
+- Relevamiento y análisis de requerimientos
+- Historias de usuario y casos de uso
+- Modelado de procesos y flujos funcionales
+- Validación funcional y testing de requisitos
+- Metodologías ágiles (Scrum / Kanban)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Conocimientos técnicos
+- Python (Flask)
+- SQL (MySQL, SQLite)
+- APIs REST
+- Git / GitHub
+- Linux (Debian)
+- UX/UI (wireframes, prototipos)
+
+## 📌 Objetivo
+Busco mi primera oportunidad como **Analista Funcional / Analista de Sistemas Junior**, aportando una mirada funcional con base técnica.
+
+📫 Contacto:  
+- LinkedIn: https://www.linkedin.com/in/emilio-aquino-26a02a330
